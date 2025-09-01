@@ -17,5 +17,5 @@ This is for md files
 5. pull\
 ~~By mistake~~ (tilde for strike)\
 - [x] complete
-- [ ] incomplete\
-![Butterfly](https://media.gettyimages.com/id/2131642757/video/purple-flower-and-monarch-butterly.jpg?s=640x640&k=20&c=SkcAI6K-MP1scOvtdsuvb1PWUHlMlhq9GSYgUI5cwG)
+- [ ] incomplete \
+  ![turtle](https://cdn.vectorstock.com/i/500p/27/07/adorable-sea-turtle-cartoon-vector-56082707.jpg)
