@@ -9,3 +9,10 @@ This is for md files
 * pull request
 * Merge 
 * Commit
+### Commands
+1. Git status
+2. Git add
+3. Git commit
+4. push
+5. pull\
+~~By mistake~~
