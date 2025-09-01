@@ -15,4 +15,7 @@ This is for md files
 3. Git commit
 4. push
 5. pull\
-~~By mistake~~
+~~By mistake~~ (tilde for strike)\
+- [x] complete
+- [ ] incomplete\
+![Butterfly](https://media.gettyimages.com/id/2131642757/video/purple-flower-and-monarch-butterly.jpg?s=640x640&k=20&c=SkcAI6K-MP1scOvtdsuvb1PWUHlMlhq9GSYgUI5cwG)
